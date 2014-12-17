@@ -1,0 +1,91 @@
+C:\Users\seriy\documents\visual studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+C:\Users\seriy\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe
+C:\Users\seriy\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.pdb
+C:\Users\seriy\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.csprojResolveAssemblyReference.cache
+C:\Users\seriy\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+C:\Users\seriy\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ShipTraffic\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.pdb
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.dll
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.dll
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.pdb
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.xml
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.csprojResolveAssemblyReference.cache
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.dll
+C:\Users\Den\Desktop\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.pdb
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.csprojResolveAssemblyReference.cache
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.pdb
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.dll
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.dll
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.dll
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.pdb
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.pdb
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.xml
+G:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.xml
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.csprojResolveAssemblyReference.cache
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.pdb
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.dll
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.dll
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.dll
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.dll
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.pdb
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.pdb
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.xml
+J:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.pdb
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.dll
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.dll
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.dll
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.pdb
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.pdb
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.xml
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.csprojResolveAssemblyReference.cache
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+H:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe.config
+H:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.exe
+H:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.pdb
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\obj\Debug\ShipTraffic.Application.csprojResolveAssemblyReference.cache
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.exe
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Application.pdb
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.dll
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.dll
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.dll
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.dll
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.Model.pdb
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\ShipTraffic.UI.pdb
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.xml
+K:\Projects\Ver1\ShipTraffic2\ShipTraffic.Application\bin\Debug\EntityFramework.SqlServer.xml
